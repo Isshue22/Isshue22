@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Asish Bag
 
-**Data Analyst | Business Intelligence Enthusiast | Analytics Student**
+**Data Analyst | Business Intelligence Enthusiast | ML engineer**
 
 Kolkata, West Bengal, India  
 [LinkedIn](https://linkedin.com/in/asish-bag-b6ba7a1b8) • [GitHub](https://github.com/Isshue22) • [Email](mailto:bagasish1@gmail.com)
