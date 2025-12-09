@@ -1,86 +1,119 @@
-# Hi there 👋, I'm Asish Bag
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm Asish Bag</h1>
+<h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
 
-**Data Analyst | Business Intelligence Enthusiast | ML engineer**
-
-Kolkata, West Bengal, India  
-[LinkedIn](https://linkedin.com/in/asish-bag-b6ba7a1b8) • [GitHub](https://github.com/Isshue22) • [Email](mailto:bagasish1@gmail.com)
-
----
-
-## 🧑‍💼 Professional Summary
-
-Results-driven Data Analytics student skilled in **statistical analysis**, **data visualization**, and **business intelligence**. Experienced in designing data-driven solutions, optimizing customer service, and boosting sales through actionable insights. Proficient in **SQL, Python, AWS, and Tableau**, with hands-on experience in **big data and predictive analytics**.
+<p align="center">
+  <a href="mailto:bagasisg@gmail.com"><img src="https://img.shields.io/badge/Email-bagasisg@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/asish-bag-b6ba7a1b8"><img src="https://img.shields.io/badge/LinkedIn-Asish%20Bag-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Isshue22"><img src="https://img.shields.io/badge/GitHub-Isshue22-black?style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-## 💼 Work Experience
+## 🧠 About Me
 
-### Relationship Manager, Nobroker.com  
-*Bengaluru | Aug 2025 – Present*  
-- Develop and maintain strong client relationships to enhance customer satisfaction.
-- Execute daily account management tasks, ensuring timely responses to client inquiries.
-- Coordinate cross-functional efforts to align services with client needs.
+- 📍 Based in Kolkata, India  
+- 💡 I’m passionate about exploring, cleaning, and visualizing data  
+- 📊 I turn complex data into simple insights that drive business decisions  
+- 🔍 I love working on analytics projects that solve real problems  
+- 🎯 Goal: Keep improving as a **Data Analyst** and work with live business data  
 
-### Customer Support Executive, Globiva Pvt Ltd  
-*Kolkata | Apr 2021 – Nov 2021*  
-- Optimized data sets and integrated new features, driving a 25% improvement in data-driven decisions.
-- Developed reporting tools that reduced support costs by 15% by identifying service inefficiencies.
-- Enhanced response times by 20% by implementing best practices within support teams.
+---
+
+## 🧰 Tech & Tools
+
+**Languages & Libraries**  
+🐍 Python (pandas, numpy, matplotlib, seaborn)  
+🧠 scikit-learn (ML) | SQL | SPSS  
+
+**Analytics & BI**  
+📈 Tableau | Excel Dashboards  
+🧹 Data Cleaning | EDA | Predictive Modeling  
+
+**Soft Skills**  
+💬 Communicating insights clearly  
+🤝 Understanding customer and business needs  
 
 ---
 
 ## 🎓 Education
 
-- **BCA (Data Analytics)**, Amity University, Noida (*Jul 2022 – Jun 2025*)
-- **Higher Secondary**, Arambagh High School (*2016 – 2018*)
-- **Secondary**, Kanpur K.V Institution (*2015 – 2016*)
+🎓 **BCA (Data Analytics)** — Amity University, Noida (2022–2025)  
+🏫 **Higher Secondary** — Arambagh High School  
+🏫 **Secondary** — Kanpur K.V Institution  
 
 ---
 
-## 💻 Technical Skills
+## 💼 Work Experience
 
-| Category        | Skills & Tools                                              |
-|-----------------|------------------------------------------------------------|
-| Programming     | Python, SQL, JS, C, C++                                    |
-| Machine Learning & AI | Artificial Intelligence, Machine Learning, scikit-learn (sklearn), Statistics |
-| Visualization & BI | Seaborn, Matplotlib, Plotly, Power BI                    |
-| Data Analysis Tools | pandas, numpy, matplotlib, seaborn                       |
-| Big Data & Cloud | AWS, Hadoop                                                |
-| Other           | Data Cleaning, Reporting, Predictive Modeling, Customer Support |
+**Relationship Manager — NoBroker**  
+*Aug 2025 – Present*  
+- Help clients match with suitable properties and close deals  
+- Coordinate with internal teams to resolve issues and enhance experience  
 
----
-
-## 📊 Projects
-
-### Zomato Data Analysis (Mar 2025 – Jun 2025)
-- Analyzed Zomato's restaurant dataset to extract actionable insights, improving decision efficiency by 25%.
-- Improved reporting accuracy using advanced data manipulation with Python and SQL.
-- Developed predictive models to forecast customer preferences, enhancing targeted marketing by 30%.
+**Customer Support Associate — Cashify**  
+*Sep 2022 – Nov 2022*  
+- Managed customer support for device sales and services  
+- Logged and tracked issues to improve service quality  
 
 ---
 
-## 📰 Internships
+## 🧑‍💻 Internships
 
-### Big Data on Cloud Intern – TCS ION, Kolkata (Feb 2025 – Jun 2025)
-- Architected cloud-based solutions using AWS and Hadoop, accelerating data processing.
-- Led initiatives that improved client satisfaction scores by 90% yearly.
-- Engineered predictive models, increasing sales performance by 25%.
+**Data Visualization Intern — Xcelerate (Remote)**  
+*Aug 2025 – Dec 2025*  
+- Worked on real datasets to create interactive dashboards  
+- Focused on cleaning data, using clear visualizations, and identifying business trends  
 
-### Data Analytics Intern – TCS ION, Kolkata (Jan 2024 – Nov 2024)
-- Built analytics strategies using SQL and Tableau, increasing reporting efficiency.
-- Collaborated across teams to launch 5 new services, improving customer engagement by 25%.
-- Led cross-functional initiatives that improved product development processes by 30%.
-
----
-
-## 🚀 How to Reach Me
-
-- 📫 Email: bagasish1@gmail.com
-- 📱 Mobile: +91-9775579469
-- 🌐 [LinkedIn](https://linkedin.com/in/asish-bag-b6ba7a1b8)
-- 💻 [GitHub](https://github.com/Isshue22)
+**TCS iON RIO-210 — Drug Trials Classification Project**  
+*Feb 2025 – Jul 2025*  
+- Built and evaluated a classification model on a drug trials dataset using Python  
+- Compared model accuracy and documented findings  
 
 ---
 
-> “Driven by a passion for data and powered by hands-on experience in analytics, I thrive on transforming raw data into strategic business solutions.”
+## 📂 Featured Projects
 
+### 🧭 [Data Visualization – Xcelerate Internship Project](https://github.com/Isshue22/Data_visulation_Excelerate)
+Designed dashboards to visualize business growth and performance metrics.
+
+---
+
+### 🍴 [Zomato Data Analysis](https://github.com/Isshue22/data-anlyasis-project)
+Analysed restaurant data to find customer preferences, pricing patterns, and cuisine popularity.
+
+---
+
+### 🛒 [Flipkart Sales Analysis Using Python](https://github.com/Isshue22/flipkart_sels_anls)
+Explored sales trends, seasonal patterns, and top categories using Python libraries.
+
+---
+
+### 🎮 [Tic Tac Toe Game (Frontend Project)](https://github.com/Isshue22/Tic-tack-game)
+Developed a web-based tic tac toe game using HTML, CSS, and JavaScript.
+
+---
+
+### 🌙 [Astrology Website](https://github.com/Isshue22/Gururaj)
+Created an astrology and vastu service website with information and contact sections.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isshue22&show_icons=true&theme=default" alt="Asish's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isshue22&layout=compact&theme=default" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** [bagasisg@gmail.com](mailto:bagasisg@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/asish-bag-b6ba7a1b8](https://linkedin.com/in/asish-bag-b6ba7a1b8)  
+🐙 **GitHub:** [github.com/Isshue22](https://github.com/Isshue22)
+
+---
+
+⭐ _“Turning data into decisions — one dataset at a time.”_ ⭐
