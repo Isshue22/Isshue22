@@ -27,7 +27,7 @@
 🧠 scikit-learn (ML) | SQL | SPSS  
 
 **Analytics & BI**  
-📈 Tableau | Excel Dashboards  
+📈 Power BI | Excel Dashboards  
 🧹 Data Cleaning | EDA | Predictive Modeling  
 
 **Soft Skills**  
